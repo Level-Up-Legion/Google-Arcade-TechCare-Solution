@@ -1,6 +1,6 @@
-# Ingesting FHIR Data with the Healthcare API
+Ingesting HL7v2 Data with the Healthcare API
 <div align="center">
-<a href="https://www.cloudskillsboost.google/focuses/6104?parent=catalog" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+<a href="https://www.cloudskillsboost.google/focuses/7015?parent=catalog" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Open_Lab-Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=34A853" alt="Open Lab" style="height: 35px; border-radius: 5px;">
   </a>
 </div>
@@ -21,7 +21,7 @@
 <p><strong>☁️ Run in Cloud Shell:</strong></p>
 
 ```bash
-curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Ingesting%20FHIR%20Data%20with%20the%20Healthcare%20API/arcadecrew.sh
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Ingesting%20HL7v2%20Data%20with%20the%20Healthcare%20API/arcadecrew.sh
 sudo chmod +x arcadecrew.sh
 ./arcadecrew.sh
 ```
@@ -33,13 +33,13 @@ sudo chmod +x arcadecrew.sh
 
 <div align="center" style="padding: 5px;">
   <h3>📱 Join the Level Up Legion Community</h3>
+
+  <a href="https://youtube.com/@level-up-legion-001?si=ZLxC4bGSbrdm42Gx">
   
-  
-  <a href="https://www.youtube.com/@Arcade61432?sub_confirmation=1">
-    <alt="YouTube Channel">
   </a>
   &nbsp;
   
+
 </div>
 
 ---
